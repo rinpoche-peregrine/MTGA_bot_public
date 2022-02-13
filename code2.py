@@ -523,7 +523,7 @@ class bot():
 
             Broken = False
             
-            pixel = self.CheckMyTurn() # returns pixel color of bottom right button
+            
             
             if sum(pixel) in range(0, 0):
                 
